@@ -24,7 +24,7 @@ I don't just study DevOps — I **build it**. Every project I ship follows real-
 ## 🏅 Certifications
 
 <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 ---
 
 ## 🔧 Tech Stack & Tools
